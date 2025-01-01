@@ -1,0 +1,14 @@
+ - to create a virtual environment
+   python -m venv env
+
+ - to activated the v-env
+   .\env\Scripts\activate
+
+ - to install the requirements 
+   pip install -r requirements.txt
+
+ - to start a django-project
+   django-admin startproject server
+
+ - to run a server on specific port
+   .\server\manage.py runserver 8080
