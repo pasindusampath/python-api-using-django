@@ -1,4 +1,18 @@
 
+# PYTHON API
+
+this is a basic api usin python django-rest-api for my learning purpose and testing purpose
+
+
+
+
+## Tech Stack
+
+**Client:** Postman
+
+**Server:** Python
+
+
 ## Run Locally
 
 Clone the project
