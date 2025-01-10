@@ -12,3 +12,7 @@
 
  - to run a server on specific port
    .\server\manage.py runserver 8080
+
+- to migrate dbs
+    python manage.py makemigrations
+    python manage.py migrate
